@@ -1,5 +1,4 @@
 # Task4_Power-BI-Interactive-Dashboard
-Here's a GitHub README template for your Power BI Dashboard project:
 
 ---
 
