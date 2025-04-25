@@ -117,8 +117,8 @@ The dataset has been sourced from [Kaggle Sales and Financial dataset](https://w
 
 ## Project Files
 
-- **Power BI File**: [Dashboard.pbix](#) (Upload your Power BI file here)
-- **Power BI Report Link**: [View Report Online](#) (Link to the published report, if applicable)
+- **Dataset  File**
+- **Power BI Report PDF**
 
 ## Future Improvements
 - **Add Predictive Analytics**: Implement forecasting models to predict future sales based on historical data.
